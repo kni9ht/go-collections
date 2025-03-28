@@ -1,3 +1,3 @@
-module github.com/kni9ht/go-collections/v1.0
+module module github.com/kni9ht/go-collections
 
 go 1.23.4
