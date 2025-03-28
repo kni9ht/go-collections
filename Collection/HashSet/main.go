@@ -1,6 +1,6 @@
 package HashSet
 
-import List "go-collections/Collection/Linklist"
+import List "github.com/kni9ht/go-collections/Collection/Linklist"
 
 type set struct {
 	arr [8192]List.List

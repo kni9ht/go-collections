@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"go-collections/Collection/HashSet"
-	List "go-collections/Collection/Linklist"
 	"math/rand"
 	"time"
+
+	"github.com/kni9ht/go-collections/Collection/HashSet"
+	List "github.com/kni9ht/go-collections/Collection/Linklist"
 )
 
 func getRandom() int32 {
